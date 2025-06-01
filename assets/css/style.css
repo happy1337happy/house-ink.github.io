@@ -224,7 +224,7 @@ span{
     border-color: #376B44;
 }
 .new-wrapper{
-    background-image: url(./assets/images/pic_background.png);
+    background-image: url(../assets/images/pic_background.png);
     background-size: cover;
     background-repeat: no-repeat;
     padding:70px 0;
