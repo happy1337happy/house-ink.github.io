@@ -1,6 +1,6 @@
 const paintings = [
     {
-        img: "assets/images/catalog/item-6.jpeg",
+        img: "./assets/images/catalog/item-6.jpeg",
         title: "Landscape with Fish",
         artist: "Pierre Morange",
         material: "Color lithography (50x80)",
@@ -8,7 +8,7 @@ const paintings = [
         category: "France",
     },
     {
-        img: "assets/images/catalog/item-5.jpeg",
+        img: "./assets/images/catalog/item-5.jpeg",
         title: "Bird's Feast",
         artist: "François Dupont",
         material: "Color lithography (40x60)",
@@ -16,7 +16,7 @@ const paintings = [
         category: "France",
     },
     {
-        img: "assets/images/catalog/item-4.jpeg",
+        img: "./assets/images/catalog/item-4.jpeg",
         title: "Rose",
         artist: "Louis Detouche",
         material: "Paper, acrylic (50x80)",
@@ -24,7 +24,7 @@ const paintings = [
         category: "France",
     },
     {
-        img: "assets/images/catalog/item-3.jpeg",
+        img: "./assets/images/catalog/item-3.jpeg",
         title: "Procedure",
         artist: "François Dupont",
         material: "Color lithography (40x60)",
@@ -32,7 +32,7 @@ const paintings = [
         category: "France",
     },
     {
-        img: "assets/images/catalog/item-2.jpeg",
+        img: "./assets/images/catalog/item-2.jpeg",
         title: "Lady with a Dog",
         artist: "Henri Selin",
         material: "Acrylic, paper (50x80)",
@@ -40,7 +40,7 @@ const paintings = [
         category: "France",
     },
     {
-        img: "assets/images/catalog/item-1.jpeg",
+        img: "./assets/images/catalog/item-1.jpeg",
         title: "Cupid's Hunt",
         artist: "Marcel Russo",
         material: "Canvas, oil (50x80)",
@@ -48,7 +48,7 @@ const paintings = [
         category: "France",
     },
         {
-        img: "assets/images/catalog/item-1.jpeg",
+        img: "./assets/images/catalog/item-1.jpeg",
         title: "Cupid's Hunt",
         artist: "Marcel Russo",
         material: "Canvas, oil (50x80)",
@@ -56,7 +56,7 @@ const paintings = [
         category: "Germany",
     },
         {
-        img: "assets/images/catalog/item-2.jpeg",
+        img: "./assets/images/catalog/item-2.jpeg",
         title: "Lady with a Dog",
         artist: "Henri Selin",
         material: "Acrylic, paper (50x80)",
@@ -64,7 +64,7 @@ const paintings = [
         category: "Germany",
     },
         {
-        img: "assets/images/catalog/item-3.jpeg",
+        img: "./assets/images/catalog/item-3.jpeg",
         title: "Procedure",
         artist: "François Dupont",
         material: "Color lithography (40x60)",
@@ -72,7 +72,7 @@ const paintings = [
         category: "Germany",
     },
         {
-        img: "assets/images/catalog/item-4.jpeg",
+        img: "./assets/images/catalog/item-4.jpeg",
         title: "Rose",
         artist: "Louis Detouche",
         material: "Paper, acrylic (50x80)",
@@ -80,7 +80,7 @@ const paintings = [
         category: "Germany",
     },
         {
-        img: "assets/images/catalog/item-5.jpeg",
+        img: "./assets/images/catalog/item-5.jpeg",
         title: "Bird's Feast",
         artist: "François Dupont",
         material: "Color lithography (40x60)",
@@ -88,7 +88,7 @@ const paintings = [
         category: "Germany",
     },
         {
-        img: "assets/images/catalog/item-6.jpeg",
+        img: "./assets/images/catalog/item-6.jpeg",
         title: "Landscape with Fish",
         artist: "Pierre Morange",
         material: "Color lithography (50x80)",
@@ -96,7 +96,7 @@ const paintings = [
         category: "Germany",
     },
         {
-        img: "assets/images/catalog/item-6.jpeg",
+        img: "./assets/images/catalog/item-6.jpeg",
         title: "Landscape with Fish",
         artist: "Pierre Morange",
         material: "Color lithography (50x80)",
@@ -104,7 +104,7 @@ const paintings = [
         category: "England",
     },
     {
-        img: "assets/images/catalog/item-5.jpeg",
+        img: "./assets/images/catalog/item-5.jpeg",
         title: "Bird's Feast",
         artist: "François Dupont",
         material: "Color lithography (40x60)",
@@ -112,7 +112,7 @@ const paintings = [
         category: "England",
     },
     {
-        img: "assets/images/catalog/item-4.jpeg",
+        img: "./assets/images/catalog/item-4.jpeg",
         title: "Rose",
         artist: "Louis Detouche",
         material: "Paper, acrylic (50x80)",
@@ -120,7 +120,7 @@ const paintings = [
         category: "England",
     },
      {
-        img: "assets/images/catalog/item-1.jpeg",
+        img: "./assets/images/catalog/item-1.jpeg",
         title: "Cupid's Hunt",
         artist: "Marcel Russo",
         material: "Canvas, oil (50x80)",
@@ -128,7 +128,7 @@ const paintings = [
         category: "England",
     },
         {
-        img: "assets/images/catalog/item-2.jpeg",
+        img: "./assets/images/catalog/item-2.jpeg",
         title: "Lady with a Dog",
         artist: "Henri Selin",
         material: "Acrylic, paper (50x80)",
@@ -136,7 +136,7 @@ const paintings = [
         category: "England",
     },
         {
-        img: "assets/images/catalog/item-3.jpeg",
+        img: "./assets/images/catalog/item-3.jpeg",
         title: "Procedure",
         artist: "François Dupont",
         material: "Color lithography (40x60)",
