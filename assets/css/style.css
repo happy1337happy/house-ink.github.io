@@ -482,7 +482,10 @@ footer .footer-wrapp .logo{
     header {
         padding: 20px 0;
     }
-
+    header .header-wrapper{
+        flex-direction: column;
+        gap: 20px;
+    }
     header .header-wrapper nav ul {
         gap: 20px;
     }
